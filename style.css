@@ -1,0 +1,20 @@
+img {
+    width: 300px;
+    height: 300px;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+#random{
+    padding: 20px;
+    background-color: red;
+    color: whitesmoke;
+}
+
+.btn_div{
+    display: flex;
+    justify-content: center;
+}
